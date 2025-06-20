@@ -12,5 +12,6 @@ public class ex2 {
             sum=sum+i;
         }
         System.out.println("\n The summation of "+n+"th term = "+sum);
+        sc.close();
     }
 }
